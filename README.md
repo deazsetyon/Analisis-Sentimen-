@@ -2,7 +2,7 @@
 
 Untuk menjalankan website:<br>
 
-Upload file app.py ke dalam folder/boleh di local folder collab
-Run collab hingga selesai
-Buka URL streamlit
-Copy IP ke dalam password (token berupa IP)
+Upload file app.py ke dalam folder/boleh di local folder collab <br>
+Run collab hingga selesai <br>
+Buka URL streamlit <br>
+Copy IP ke dalam password (token berupa IP) <br>
